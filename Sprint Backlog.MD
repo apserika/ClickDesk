@@ -12,6 +12,7 @@ Para a criação e manutenção destes diagramas, utilizamos principalmente as s
 * **Lucidchart:** Para fluxogramas e diagramas de arquitetura de alto nível.
 
 ---
+<h1> 📅 Cronograma de Entregas </h1>
 
 ## 📅 Navegação pelas Sprints
 
@@ -23,11 +24,12 @@ Para a criação e manutenção destes diagramas, utilizamos principalmente as s
 | SPRINT 4 | 09/09/2025 - 15/09/2025 | Diagrama de Sequência | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Sequencia%20) |
 | SPRINT 5 | 16/09/2025 - 22/09/2025 | Diagrama de Colaboração |[Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Colabora%C3%A7%C3%A3o%20) |
 | SPRINT 6 | 23/09/2025 - 29/09/2025 | Diagrama de Pacote | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Pacotes%20) |
-| SPRINT 7 | 30/09/2025 - 06/10/2025 | Diagrama de Implantação e Estrutura| [Ver no GitHub](https://github.com/Andr3stt/ClickDesk/tree/main/Diagramas/SPRINT%207%20-%20%20DIAGRAMA%20DE%20IMPLANTA%C3%87%C3%83O) |
+| SPRINT 7 | 30/09/2025 - 06/10/2025 | Diagrama de Implantação e Estrutura| [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Implanta%C3%A7%C3%A3o%20e%20Estrutura%20) |
 
 
 
 > **Nota:** Para dúvidas sobre a modelagem ou diagramas, entre em contato com o Product Owner (André Barbosa) ou o Scrum Master (Vinicius Fagundes).
+
 
 
 
