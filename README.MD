@@ -17,7 +17,7 @@ O **Clickdesk** é um sistema de atendimento e suporte técnico (Helpdesk) volta
 
 ## 📊 [Estrutura de Diagramas](/Diagramas) 📊
 
-## 📚 [Documentação do Projeto (DoR, DoD)](/Documentacao%20do%20projeto/README.MD) 📚
+## 📚 [Documentação do Projeto (DoR, DoD)](/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o) 📚
 
 ## 📖 [Manual de Instalação e Execução](/Manual%20de%20instalacao/README.MD) 📖
 
@@ -76,4 +76,5 @@ O **Clickdesk** é um sistema de atendimento e suporte técnico (Helpdesk) volta
 
 
 > Dúvidas, sugestões ou colaboração? Fale com nossa equipe!
+
 
