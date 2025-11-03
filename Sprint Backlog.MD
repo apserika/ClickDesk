@@ -19,7 +19,7 @@ Para a criação e manutenção destes diagramas, utilizamos principalmente as s
 | :--- | :--- | :--- | :--- |
 | SPRINT 1 | 19/08/2025 - 25/08/2025 | Estruturação do GitHub e Diagrama de Caso de Uso | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Casos%20de%20uso%20) |
 | SPRINT 2 | 26/08/2025 - 01/09/2025 | Diagrama de Classe | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Classe%20) |
-| SPRINT 3 | 02/09/2025 - 08/09/2025 | Diagrama de Objetos | [Ver no GitHub](https://github.com/Andr3stt/ClickDesk/tree/main/Diagramas/SPRINT%203%20-%20%20DIAGRAMA%20DE%20OBJETO) |
+| SPRINT 3 | 02/09/2025 - 08/09/2025 | Diagrama de Objetos | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Objetos) |
 | SPRINT 4 | 09/09/2025 - 15/09/2025 | Diagrama de Sequência | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Sequencia%20) |
 | SPRINT 5 | 16/09/2025 - 22/09/2025 | Diagrama de Colaboração |[Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Colabora%C3%A7%C3%A3o%20) |
 | SPRINT 6 | 23/09/2025 - 29/09/2025 | Diagrama de Pacote | [Ver no GitHub](https://github.com/apserika/ClickDesk/tree/main/Diagramas/Pacotes%20) |
@@ -28,6 +28,7 @@ Para a criação e manutenção destes diagramas, utilizamos principalmente as s
 
 
 > **Nota:** Para dúvidas sobre a modelagem ou diagramas, entre em contato com o Product Owner (André Barbosa) ou o Scrum Master (Vinicius Fagundes).
+
 
 
 
