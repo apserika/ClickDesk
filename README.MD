@@ -19,7 +19,7 @@ O **Clickdesk** é um sistema de atendimento e suporte técnico (Helpdesk) volta
 
 ## 📚 [Documentação do Projeto (DoR, DoD)](/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o) 📚
 
-## 📖 [Manual de Instalação e Execução](/Manual%20de%20instalacao/README.MD) 📖
+## 📖 [Manual de Instalação e Execução](/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Como%20Executar%20o%20Projeto.md) 📖
 
 ---
 
@@ -76,5 +76,6 @@ O **Clickdesk** é um sistema de atendimento e suporte técnico (Helpdesk) volta
 
 
 > Dúvidas, sugestões ou colaboração? Fale com nossa equipe!
+
 
 
