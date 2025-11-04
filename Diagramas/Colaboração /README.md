@@ -1,6 +1,6 @@
 ### Diagrama de colaboração (Abertura de chamado) 
 
-<img width="649" height="804" alt="Cominicaçao Abertura de Chamado " src="https://github.com/user-attachments/assets/9e877ba5-ce49-4da5-82d8-9d0b57ab2f20" 
+<img width="649" height="804" alt="Cominicaçao Abertura de Chamado" src="https://github.com/user-attachments/assets/9e877ba5-ce49-4da5-82d8-9d0b57ab2f20"/>
 
   ### Diagrama de colaboração (Atualizar Status)
 
